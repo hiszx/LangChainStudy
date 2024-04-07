@@ -5,7 +5,7 @@ OPENAI_API_KEY="7a1ce118af3e418fbe41a7625a200405"
 OPENAI_API_VERSION = "2023-05-15"
 
 #HTML CONFIG
-bot_template=12
+bot_template=122
 
 
 user_template =2
